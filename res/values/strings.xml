@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <string name="seekbar01">Alarm</string>
+ <string name="seekbar02">Music</string>
+ <string name="seekbar03">Notification</string>
+ <string name="seekbar04">Ring</string>
+ <string name="seekbar05">System</string>
+ <string name="seekbar06">Call</string>
+ <string name="button01">Mute</string>
+ <string name="button02">Max</string>
+ <string name="app_name">VolumeControl</string>
+</resources><!-- Copyright (c) 2012-2016 YA <ya.androidapp@gmail.com> All rights reserved. -->
